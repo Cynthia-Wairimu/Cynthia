@@ -1,0 +1,3 @@
+👋 Hi, I’m @Cynthia-Wairimu
+👀 I’m interested in Python for Data Science
+🌱 I’m currently learning Computer and Data Science.
